@@ -6,11 +6,13 @@
 - 😄 Pronouns: She/Her, but you can call me "Code Queen".
 - ⚡ Fun fact: I once debugged a nightmare code at 3 AM and lived to tell the tale.
 
-I've been doing Android development for the second year. I have completed the Yandex Practicum courses. Now I am actively looking for a job, continuing to engage in project activities.
+I've been doing Android development for the second year. 
+I have completed the Yandex Practicum courses. 
+Now I am actively looking for a job, continuing to engage in project activities.
 
-📫e-mail: cat.sedoff@gmail.com 
-📱tel: +386 071-596-926, +7 915 215-86-43
-👋Telegram: @katerina666lisichka
+- 📫e-mail: cat.sedoff@gmail.com 
+- 📱tel: +386 071-596-926, +7 915 215-86-43
+- 👋Telegram: @katerina666lisichka
 
 <!---
 Eka666Sed/Eka666Sed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
