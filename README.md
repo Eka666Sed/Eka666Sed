@@ -16,11 +16,12 @@ Now I am actively looking for a job, continuing to engage in project activities.
 
  Languages and Tools
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png" alt="Android" width="40" height="40"/>
+#F24E1E
+
 
 
 
