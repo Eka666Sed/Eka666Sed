@@ -14,7 +14,7 @@ Now I am actively looking for a job, continuing to engage in project activities.
 - 📱tel: +386 071-596-926, +7 915 215-86-43
 - 👋Telegram: @katerina666lisichka
 
- Languages and Tools
+- Languages and Tools:
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
