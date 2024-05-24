@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ekaterina Sedova.
+- 👋 Hi, I’m Ekaterina Sedova. I’m an Android Developer.
 - 👀 I’m interested in turning caffeine and code into magic.
 - 🌱 I’m currently learning how to make Android apps even more addictive than social media.
 - 💞️ I’m looking to collaborate on projects that are as awesome as my cat.
